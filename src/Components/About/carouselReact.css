@@ -1,0 +1,415 @@
+body {
+    background-color: #fff;
+}
+
+._swiper {
+    position: relative;
+}
+._swiper img {
+    height: 400px;
+    width: 350px;
+    border-radius: 20px 0 0 20px;
+}
+
+._swiper ._card_ {
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    padding: 20px;
+    width: 270px;
+    height: auto;
+    background-color: #fff;
+    border-radius: 23px;
+    border: none;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15)
+}
+._swiper ._card_ .row h4 {
+    font-size: 20px;
+    color: #2a2a2a;
+    font-weight: 700;
+}
+._swiper ._card_ .row .color {
+    text-align: right;
+    font-size: 20px;
+    color: #22b3c1;
+    font-weight: bolder;
+}
+._swiper ._card_ .row span, ._swiper ._card_ .row i{
+    font-size: 15px;
+    color: #afafaf;
+}
+._swiper ._card_ .row h5 {
+    color: #2a2a2a;
+    font-weight: 600;
+}
+
+._swiper ._card_ button {
+    font-size: 14px;
+    border: 1px solid white;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    background-color: hsl(185, 70%, 45%);
+    color: #fff;
+    transition: all .7s;
+}
+._swiper ._card_ button:hover {
+    background-color: hsl(185, 70%, 55%);
+    border: none;
+}
+  
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    ._swiper-container {
+      width: 90vw;
+      padding: 10px 0;
+      margin: 10px 0;
+      overflow: hidden;
+      height: 600px;
+    }
+    ._swiper {
+        width: 100vw;
+        position: relative;
+    }
+    ._swiper img {
+        width: 200px;
+        height: 200px;
+        position: relative;
+    }
+    ._swiper ._card_ {
+        width: 65vw;
+        height: auto;
+        position: absolute;
+        left: 20px;
+    }
+    ._swiper ._card_ button {
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    ._swiper-container {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        overflow: hidden;
+        height: 600px;
+      }
+      ._swiper {
+          width: 100vw;
+          position: relative;
+      }
+      ._swiper img {
+          width: 350px;
+          height: 50vh;
+          position: relative;
+      }
+      ._swiper ._card_ {
+          width: 270px;
+          height: auto;
+          position: absolute;
+          top: 50px;
+          left: 100px;
+}}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+    ._swiper-container {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        height: 600px;
+      }
+      ._swiper img {
+          width: 400px;
+          height: 400px;
+          position: relative;
+      }
+      ._swiper ._card_ {
+          width: 300px;
+          position: absolute;
+          top: 100px;
+          left: 150px;
+          height: auto;
+}}
+
+@media (min-width: 1000px) and (max-width: 1200px){
+    ._swiper-container {
+        width: 80vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        height: 600px;
+      }
+      ._swiper img {
+        width: 200px;
+        height: 200px;
+          position: relative;
+      }
+      ._swiper ._card_ {
+        width: 250px;
+          position: absolute;
+          top: 40px;
+          left: 50px;
+          height: auto;
+}}
+@media (min-width: 1200px) and (max-width: 1600px){
+    ._swiper-container {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        height: auto;
+      }
+      ._swiper img {
+        width: 300px;
+        height: 450px;
+          position: relative;
+      }
+      ._swiper ._card_ {
+        width: 250px;
+          position: absolute;
+          top: -10px;
+          left: 100px;
+          height: auto;
+}}
+@media (min-width: 1600px) and (max-width: 2000px){
+    ._swiper-container {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        max-height: 800px;
+      }
+      ._swiper img {
+        width: 300px;
+        height: 450px;
+          position: relative;
+      }
+      ._swiper ._card_ {
+        width: 250px;
+          position: absolute;
+          top: 40px;
+          left: 100px;
+          height: auto;
+}}
+
+
+
+/* Visa Support Carousel */
+body {
+    background-color: #fff;
+}
+
+._swiper2 {
+    position: relative;
+}
+._swiper2 img {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px 0 0 20px;
+}
+
+._swiper2 ._card_2 {
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    padding: 20px;
+    width: 270px;
+    height: auto;
+    background-color: #fff;
+    border-radius: 23px;
+    border: none;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15)
+}
+._swiper2 ._card_2 .row h4 {
+    font-size: 20px;
+    color: #2a2a2a;
+    font-weight: 700;
+}
+._swiper2 ._card_2 .row .color {
+    text-align: right;
+    font-size: 20px;
+    color: #22b3c1;
+    font-weight: bolder;
+}
+._swiper2 ._card_2 .row span, ._swiper2 ._card_2 .row i{
+    font-size: 15px;
+    color: #afafaf;
+}
+._swiper2 ._card_2 .row h5 {
+    color: #2a2a2a;
+    font-weight: 600;
+}
+._swiper2 ._card_2 .row h6 {
+    font-size: 13px;
+    margin-bottom: 10px;
+    color: #2a2a2a;
+    font-weight: bold;
+}
+._swiper-container2 {
+    width: 80%;
+    padding: 10px 0;
+    margin: 10px 0;
+    height: 500px;
+  }
+  ._swiper2 img {
+      width: 25vw;
+      height: 35vh;
+      position: relative;
+  }
+  ._swiper2 ._card_ {
+      width: 20vw;
+      height: 300px;
+      z-index: 999;
+      position: absolute;
+      top: 10%;
+      left: 10vw;
+      height: auto;
+}
+
+._swiper2 ._card_2 button {
+    font-size: 14px;
+    border: 1px solid white;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    background-color: hsl(185, 70%, 45%);
+    color: #fff;
+    transition: all .7s;
+}
+._swiper2 ._card_2 button:hover {
+    background-color: hsl(185, 70%, 55%);
+    border: none;
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    ._swiper-container2 {
+      width: 90vw;
+      padding: 10px 0;
+      margin: 10px 0;
+      height: 500px;
+    }
+    ._swiper2 {
+        width: 100vw;
+        position: relative;
+    }
+    ._swiper2 img {
+        width: 200px;
+        height: 200px;
+        position: relative;
+    }
+    ._swiper2 ._card_2 {
+        width: 250px;
+        height: auto;
+        position: absolute;
+        left: 30px;
+    }
+    ._swiper2 ._card_2 button {
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    ._swiper-container2 {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        overflow: hidden;
+        height: 500px;
+      }
+      ._swiper2 {
+          width: 100vw;
+          position: relative;
+      }
+      ._swiper2 img {
+          width: 350px;
+          height: 50vh;
+          position: relative;
+          overflow: hidden;
+      }
+      ._swiper2 ._card_2 {
+          width: 270px;
+          height: auto;
+          position: absolute;
+          top: 50px;
+          left: 100px;
+}}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+    ._swiper-container2 {
+        width: 90vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        height: 500px;
+      }
+      ._swiper2 img {
+          width: 300px;
+          height: 200px;
+          position: relative;
+      }
+      ._swiper2 ._card_2 {
+          width: 300px;
+          position: absolute;
+          top: 50px;
+          left: 150px;
+          height: auto;
+}}
+
+@media (min-width: 1000px) and (max-width: 1200px){
+    ._swiper-container2 {
+        width: 80vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        height: 500px;
+      }
+      ._swiper2 img {
+        width: 200px;
+        height: 200px;
+          position: relative;
+      }
+      ._swiper2 ._card_2 {
+        width: 250px;
+          position: absolute;
+          top: 40px;
+          left: 50px;
+          height: auto;
+}}
+@media (min-width: 1200px) and (max-width: 1600px){
+    ._swiper-container2 {
+        width: 80vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        max-height: 550px;
+      }
+      ._swiper2 img {
+        width: 200px;
+        height: 150px;
+        position: relative;
+      }
+      ._swiper2 ._card_2 {
+        width: 250px;
+          position: absolute;
+          top: 20px;
+          left: 50px;
+          height: auto;
+}}
+    
+@media (min-width: 1600px) and (max-width: 2000px){
+    ._swiper-container2 {
+        width: 80vw;
+        padding: 10px 0;
+        margin: 10px 0;
+        max-height: 550px;
+      }
+      ._swiper2 img {
+        width: 200px;
+        height: 150px;
+        position: relative;
+      }
+      ._swiper2 ._card_2 {
+        width: 250px;
+          position: absolute;
+          top: 20px;
+          left: 50px;
+          height: auto;
+}}

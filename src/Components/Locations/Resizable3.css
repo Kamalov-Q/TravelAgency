@@ -1,0 +1,16 @@
+.swiper3 {
+    width: 100%;
+}
+  
+.swiper-slide3 {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+  
+.swiper-slide3 img {
+    display: block;
+    width: 100%;
+}
+  

@@ -1,0 +1,100 @@
+{
+    "core": {
+            "make_reser":"Make Your Reservation",
+            "explore_more":"Explore More",
+            "discover_more" : "Discover More",
+            "people": "people",
+            "need_direct" :"Need directions?",
+            "Istanbul": "Istanbul",
+            "Dubai":"Dubai", 
+            "Antalya": "Antalya",
+            "Sharm":"El-Sheikh",
+            "USA":"USA",
+            "England":"England",
+            "Canada": "Canada",
+            "Europe":"Europe",
+            "China": "China",
+            "Hong":"Hong Kong",
+            "Europe_Shen": "Europe (Shengen)",
+            "India":"India",
+            "Japan":"Japan",
+            "Saudia":"Saudia Arabia",
+            "Oman":"Oman", 
+            "Kuala_Lumpur": "Kuala Lumpur",
+            "United_Arab":"United Arab Emirates",
+            "Turkey":"Turkey",
+            "Egypt":"Egypt"
+    },
+    "language": {
+        "eng":"English",
+        "rus":"Russian",
+        "uzb": "Uzbek"
+    },
+    "navbar": {
+        "home": "Home",
+        "about":"About",
+        "tours": "Tours",
+        "contacts":"Contacts"
+    },
+    "main-section": {
+        "city":"Take a Glimpse Into The Beautiful City Of :",
+        "go_there": "Go There",
+        "population":"Population",
+        "territory":"Territory",
+        "price":"Price"
+    },
+    "offers-section": {
+        "heading": "Best Weekly Offers In Each City",
+        "info":"Discover the best weekly offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+        "checks":"Checks Ins",
+        "person":"person",
+        "deals":"Deal includes:",
+        "deals_1":"5 Days Trip - Hotel Included",
+        "deals_2":"Airplane Bill Included",
+        "deals_3":"Daily Places Visit"    
+    },
+    "visa-supports": {
+        "heading": "Visa Support",
+        "info": "Experience stress-free travel with our expert visa support. We provide seamless assistance and comprehensive guidance, ensuring a smooth journey.",
+        "checks":"Checks Ins",
+        "deals": "Benefits of Our Visa Support service",
+        "deals_1": "Best Prices",
+        "deals_2":"Short Processing Time",
+        "deals_3":"Truthworthy Assistance"
+    },
+    "explore_dest": {
+        "heading": "Explore Destinations With Ease",
+        "info": "Find the best deals on railway and airplane tickets in each city, carefully selected for you.",
+        "info_head_1": "Cheap Railway Tickets With Us",
+        "info_head_1_sub":"Whole World",
+        "info_head_1_info": "Embark on a railway adventure and explore destinations worldwide. Whether it's the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network. .",
+        "info_head_2": "Discover Exciting Air Travel Deals",
+        "info_head_2_sub": "Global Destinations",
+        "info_head_2_info":"Embark on an airborne adventure and explore destinations worldwide. Whether it's the breathtaking landscapes, vibrant cities, or cultural treasures, our airline services provide a convenient and exhilarating way to navigate the globe. Immerse yourself in the richness of diverse cultures, all easily accessible through our extensive air travel network. ."
+    },
+    "visit_our": {
+        "heading":"Visit One Of Our Countries Now",
+        "info": "Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+        "visit_our_1_info": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+        "visit_our_2_info": "Antalya is the fastest-growing city in Turkey, and tourists from around the world are discovering its fabulous mix of great beaches and traditional Turkish culture. Kids will love the Beach Park, which features Aqua Land (a waterslide-fanatic's dream) and Dolphin Land (home to dolphins, sea lions and white whales). Make sure to explore the old town center and to see Hadrian's Gate.",
+        "visit_our_3_info": "Sharm El Sheikh is the center of tourism action in Sinai Peninsula and it has the world top diving sites. Specially the underwater wonders of Ras Mohammed national park that took Sharm city to whole different level. The city has diving and shipwreck sites that attract both advanced and recreational divers from around the world to discover the un parallel marine life deep down the red sea.",
+        "visit_our_4_info": "Istanbul is the most populous city in Turkey and its cultural, economic and historic center. It is located in north-western part of Turkey, divided into European and Asian side by Bosphorus, which connects the Sea of Marmara and Black Sea. It is the only city in the world that sits on two continents."
+    },
+    "best-locat": {
+        "heading" :"Best Locations",
+        "info": "Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences."
+    },
+    "reservation": {
+        "sub": "Book Prefered Deal Here",
+        "heading": "Make Your Reservation"
+    },
+    "form" : {
+        "heading": "Make Your Reservation Through This Form",
+        "name" : "Your Name",
+        "phone": "Your Phone Number",
+        "quantity": "Number of Guests",
+        "department" :"Check In Date",
+        "address": "Choose Your Destinations",
+        "visa_type": "Choose Your Visa Support"
+    }}
+    
